@@ -96,7 +96,7 @@ p {
     height: 750px;
     padding-top: 100px;
 
-    background: #31344e url("/img/intro-bg.jpg") center no-repeat;
+    background: #31344e url("../../img/intro-bg.jpg") center no-repeat;
     background-size: cover;
     
 }
@@ -425,7 +425,7 @@ background-color: #3a3e64;
 }
 
 .footer__inner {
-    padding: 60px 0;
+padding: 60px 0;
 display: flex;
 flex-wrap: wrap;
 }
@@ -491,4 +491,8 @@ font-style: normal;
 
 .copyright__text span {
     color: #fff;
+}
+
+.svg__block {
+    display: none;
 }
