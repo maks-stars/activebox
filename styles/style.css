@@ -628,12 +628,12 @@ p {
 }
 
 .burger__item:before {
-    width: 30px;
+    width: 28px;
     top: -8px;
 }
 
 .burger__item:after {
-    width: 30px;
+    width: 28px;
     bottom: -8px;
 }
 
