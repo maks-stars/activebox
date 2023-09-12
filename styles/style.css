@@ -99,7 +99,7 @@ ul {
 
 .header {
     background-color: #31354f;
-    background-image: url(images/background-header.jpg);
+    background-image: url(../images/background-header.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -241,27 +241,27 @@ ul {
 }
 
 .advantages__title--image-1 {
-    background-image: url(../../images/advantage1.png);
+    background-image: url(../images/advantage1.png);
 }
 
 .advantages__title--image-2 {
-    background-image: url(../../images/advantage2.png);
+    background-image: url(../images/advantage2.png);
 }
 
 .advantages__title--image-3 {
-    background-image: url(../../images/advantage3.png);
+    background-image: url(../images/advantage3.png);
 }
 
 .advantages__title--image-4 {
-    background-image: url(../../images/advantage4.png);
+    background-image: url(../images/advantage4.png);
 }
 
 .advantages__title--image-5 {
-    background-image: url(../../images/advantage5.png);
+    background-image: url(../images/advantage5.png);
 }
 
 .advantages__title--image-6 {
-    background-image: url(../../images/advantage6.png);
+    background-image: url(../images/advantage6.png);
 }
 
 .advantages__info {
